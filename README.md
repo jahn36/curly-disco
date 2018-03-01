@@ -8,7 +8,7 @@
        * GitHub username 3:
        * GitHub username 4:
        * GitHub username 5:
-   * When did you complete this exercise? 
+   * When did you complete this exercise? The assignment was completed on Thursday, March 1st, 2018.
    * How long did it take your team to complete this exercise? 
 
 ## Table of Contents
